@@ -59,6 +59,7 @@ h2 {
   border: 1px solid #37062abf;
   border-radius: 0.5rem;
   overflow: hidden;
+  margin-bottom: 20px;
 }
 
 .input-field {
