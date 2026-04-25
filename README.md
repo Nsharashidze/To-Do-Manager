@@ -13,7 +13,7 @@ A functional and stylish To-Do List application that helps users manage their da
 * **CSS3** - Custom properties (variables) and Flexbox.
 * **JavaScript (ES6)** - DOM manipulation and Local Storage API.
 
-## 🚀 How to use
-1. Clone the repository.
-2. Open `index.html` in your browser.
-3. Add your tasks and stay organized!
+How to run the project?
+
+Clone the repository:
+   git clone [https://github.com/Nsharashidze/To-Do-Manager.git](https://github.com/Nsharashidze/To-Do-Manager.git)
